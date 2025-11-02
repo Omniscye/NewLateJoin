@@ -1,4 +1,14 @@
-# LateJoin
+# NewLateJoin
+
+A maintained GPL-3.0-or-later fork of **LateJoin**, updated for the latest R.E.P.O. build.  
+Fixes Photon networking issues and restores late-joining functionality after the 2025 update.  
+
+Original project by **nickklmao** under GPL-3.0-or-later.  
+Modifications © 2025 Omniscye under the same license.
+
+---
+
+## LateJoin
 Have you ever played R.E.P.O. only to be faced with a friend who wants to join after you've started the lobby? Fret not!
 
 ## How can players late join currently?
@@ -13,9 +23,9 @@ The game treats the host as the "master client" which dictates players and how t
 
 **Therefore, be warned, this mod may not be fully compatible with other mods, especially ones that rely on important data that is handled by the client, rather than the master client!**
 
-
 ## Credits
-- **nickklmao** for developing the mod
+- **nickklmao** for developing the original mod
 - **felinusfish** for testing and debugging
 - **CharlesE2** for help with development
 - **R.E.P.O. Modding Server** for the moral support!
+- **Omniscye** for maintaining and updating for current builds
