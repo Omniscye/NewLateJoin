@@ -1,7 +1,7 @@
 # NewLateJoin
 
 A maintained GPL-3.0-or-later fork of **LateJoin**, updated for the latest R.E.P.O. build.  
-Fixes Photon networking issues and restores late-joining functionality after the 2025 update.  
+Fixes Photon networking issues and restores late-joining functionality after the October 2025 update.  
 
 Original project by **nickklmao** under GPL-3.0-or-later.  
 Modifications © 2025 Omniscye under the same license.
